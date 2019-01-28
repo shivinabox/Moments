@@ -31,7 +31,7 @@ double h,w,Area,cen_rx,cen_ry, centeroid_x, centeroid_y,holearea,hole_x,hole_y;
         double I_x,I_y,d_x,sigIx,sigIy;
         double AppMoment,maxheight,normalstress;
         
-        AppMoment = 10000.000000; 
+        AppMoment = 10000.000000; // Force applied in Newtons
             
         
     
